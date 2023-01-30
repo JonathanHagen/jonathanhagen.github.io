@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What's this for?
 ---
 
 My name is Jonathan Hagen. I created this website to provide a sort of quick-start guide to getting your favorite sounds. I'll post:
