@@ -6,7 +6,7 @@ cover-img: /assets/img/jimihendrix.jpg
 thumbnail-img: /assets/img/jimihendrix.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star]
-tags: [indie-rock]
+tags: [rock, R&B, blues]
 ---
 
 Straightfoward, no CTRLs to be messed with.
