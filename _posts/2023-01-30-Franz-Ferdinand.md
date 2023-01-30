@@ -12,4 +12,4 @@ Franz Ferdinand are a Scottish rock band formed in Glasgow in 2002. The band's o
 
 | Song | Download Link | Misc Notes |
 | :------ |:--- |:--- |
-| Take Me Out | <a href="https://github.com/JonathanHagen/jonathanhagen.github.io/blob/a2253881aa71ffb9e5dd90752004231aca57a0e8/presets/Franz%20Ferdinand.prst?raw=true" target="_blank" class="button">Black Keys v2</a> |  |
+| Take Me Out | <a href="https://github.com/JonathanHagen/jonathanhagen.github.io/blob/a2253881aa71ffb9e5dd90752004231aca57a0e8/presets/Franz%20Ferdinand.prst?raw=true" target="_blank" class="button">Franz Ferdinand</a> |  |
