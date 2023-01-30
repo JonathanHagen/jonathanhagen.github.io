@@ -161,10 +161,10 @@ footer-img: "/assets/img/valeton.jpg"
 #################################
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "G-TZ2PLY820J"
+#gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+#google_analytics: "G-6ZBPQ72Q84"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
