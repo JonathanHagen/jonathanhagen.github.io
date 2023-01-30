@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/modestmouse.jpg
 tags: [indie rock]
 ---
 
-Straightfoward, no CTRLs to be messed with. Good rythm patch.
+Modest Mouse is an American rock band formed in 1993 in Issaquah, Washington, and currently based in Portland, Oregon. The founding members were lead singer/guitarist Isaac Brock, drummer Jeremiah Green and bassist Eric Judy. Strongly influenced by Pavement, Pixies, XTC, and Talking Heads, they rehearsed, rearranged, and recorded demos for almost two years before finally signing with small-town indie label K Records and releasing numerous singles.
 
 | Song | Download Link | Misc Notes |
 | :------ |:--- |:--- |
