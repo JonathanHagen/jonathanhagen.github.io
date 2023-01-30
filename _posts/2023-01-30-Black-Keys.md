@@ -2,8 +2,8 @@
 layout: post
 title: Black Keys
 subtitle: Preset(s)
-cover-img: /assets/img/path.jpg
-thumbnail-img: /https://m.media-amazon.com/images/I/71Ftrs+B53L._SL1425_.jpg
+cover-img: /assets/img/black-keys.jpg
+thumbnail-img: /assets/img/black-keys.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star]
 tags: [indie-rock]
