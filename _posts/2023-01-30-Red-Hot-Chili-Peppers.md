@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/rhcp.jpg
 tags: [funk rock, alt rock]
 ---
 
-Straightfoward, no CTRLs to be messed with. Good rythm patch.
+Red Hot Chili Peppers are an American rock band formed in Los Angeles in 1982,[1] comprising vocalist Anthony Kiedis, bassist Flea, drummer Chad Smith, and guitarist John Frusciante. Their music incorporates elements of alternative rock, funk, punk rock, hard rock, hip hop, and psychedelic rock. Their eclectic range has influenced genres such as funk metal,[2] rap metal,[3] rap rock,[4] and nu metal.[5][3] With over 120 million records sold worldwide, Red Hot Chili Peppers are one of the best-selling bands of all time.
 
 | Song | Download Link | Misc Notes |
 | :------ |:--- |:--- |
