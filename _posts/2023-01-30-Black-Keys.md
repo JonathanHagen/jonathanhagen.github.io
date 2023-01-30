@@ -6,6 +6,7 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /https://m.media-amazon.com/images/I/71Ftrs+B53L._SL1425_.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star]
+tags: [indie-rock]
 ---
 
 Straightfoward, no CTRLs to be messed with. Good rythm patch.
