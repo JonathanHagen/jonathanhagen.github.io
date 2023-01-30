@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/raconteurs.jpg
 tags: [alt rock]
 ---
 
-Straightfoward, no CTRLs to be messed with. Good rythm patch.
+The Raconteurs (/ˌrækɒnˈtɜːrz/, also known as The Saboteurs in Australia) is an American rock band from Detroit, Michigan, formed in 2005. The band consists of Jack White (vocals, guitar), Brendan Benson (vocals, guitar), Jack Lawrence (bass guitar), and Patrick Keeler (drums). Lawrence and Keeler were originally members of the Greenhornes, while White and Lawrence went on to become members of the Dead Weather.
 
 | Song | Download Link | Misc Notes |
 | :------ |:--- |:--- |
