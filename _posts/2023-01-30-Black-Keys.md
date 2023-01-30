@@ -12,3 +12,4 @@ Straightfoward, no CTRLs to be messed with. Good rythm patch.
 | Song | Download Link | Misc Notes |
 | :------ |:--- |:--- |
 | Lo/Hi, Lonely Boy | <a href="https://github.com/JonathanHagen/jonathanhagen.github.io/blob/56853799295c956dfacc4ab9aad64286719f6806/presets/Black%20Keys%20v2.prst?raw=true" target="_blank" class="button">Black Keys v2</a> |  |
+| Tighten Up | <a href="https://github.com/JonathanHagen/jonathanhagen.github.io/blob/80e73a310bc079bb777eb82db806379b158a37b8/presets/Tighten%20Up.prst?raw=true" target="_blank" class="button">Tighten Up</a> |  |
