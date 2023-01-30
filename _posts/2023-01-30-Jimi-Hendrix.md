@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/jimihendrix.jpg
 tags: [rock, R&B, blues]
 ---
 
-Straightfoward, no CTRLs to be messed with.
+James Marshall "Jimi" Hendrix (born Johnny Allen Hendrix; November 27, 1942 – September 18, 1970) was an American guitarist, singer and songwriter. Although his mainstream career spanned only four years, he is widely regarded as one of the most influential electric guitarists in the history of popular music, and one of the most celebrated musicians of the 20th century. The Rock and Roll Hall of Fame describes him as "arguably the greatest instrumentalist in the history of rock music."[1]
 
 | Song | Download Link | Misc Notes |
 | :------ |:--- |:--- |
