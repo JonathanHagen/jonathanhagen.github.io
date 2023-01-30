@@ -4,8 +4,6 @@ title: Black Keys
 subtitle: Preset(s)
 cover-img: /assets/img/black-keys.jpg
 thumbnail-img: /assets/img/black-keys.jpg
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star]
 tags: [indie-rock]
 ---
 
