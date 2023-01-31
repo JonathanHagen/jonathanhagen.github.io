@@ -3,7 +3,7 @@ layout: post
 title: Franz Ferdinand
 subtitle: Preset(s)
 cover-img: /assets/img/franzferdinand.jpg
-thumbnail-img: /assets/franzferdinand.jpg
+thumbnail-img: /assets/img/franzferdinand.jpg
 
 tags: [indie rock]
 ---
