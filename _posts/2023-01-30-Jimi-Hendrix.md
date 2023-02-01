@@ -11,7 +11,7 @@ James Marshall "Jimi" Hendrix (born Johnny Allen Hendrix; November 27, 1942 – 
 
 | Song | Download Link | Misc Notes |
 | :------ |:--- |:--- |
-| All Along the Watchtower | <a href="https://github.com/JonathanHagen/jonathanhagen.github.io/blob/f05f9154e801101e6ad0c0fb5d72cdeecb5e4c49/presets/Watchtower.prst?raw=true" target="_blank" class="button">Watchtower</a> |  |
-| All Along the Watchtower | <a href="https://github.com/JonathanHagen/jonathanhagen.github.io/blob/f05f9154e801101e6ad0c0fb5d72cdeecb5e4c49/presets/Watchtower%20v2.prst?raw=true" target="_blank">Watchtower v2</a> |  |
-| Voodoo Child | <a href="https://github.com/JonathanHagen/jonathanhagen.github.io/blob/f05f9154e801101e6ad0c0fb5d72cdeecb5e4c49/presets/Voodoo%20Child.prst?raw=true" target="_blank" class="button">Voodoo Child</a> |  |
+| All Along the Watchtower | <a href="https://github.com/JonathanHagen/jonathanhagen.github.io/blob/f05f9154e801101e6ad0c0fb5d72cdeecb5e4c49/presets/Watchtower.prst?raw=true" target="_blank" class="button">Watchtower</a> | Stadium resonance sounding, closest to record |
+| All Along the Watchtower | <a href="https://github.com/JonathanHagen/jonathanhagen.github.io/blob/f05f9154e801101e6ad0c0fb5d72cdeecb5e4c49/presets/Watchtower%20v2.prst?raw=true" target="_blank">Watchtower v2</a> | Clean lead tone |
+| Voodoo Child | <a href="https://github.com/JonathanHagen/jonathanhagen.github.io/blob/f05f9154e801101e6ad0c0fb5d72cdeecb5e4c49/presets/Voodoo%20Child.prst?raw=true" target="_blank" class="button">Voodoo Child</a> | Use pedal for Wah effect |
 
